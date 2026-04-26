@@ -1,0 +1,13 @@
+# PyInstaller
+build/
+build_windows/
+dist/
+dist_windows/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dossier mods utilisateur
+paks/
